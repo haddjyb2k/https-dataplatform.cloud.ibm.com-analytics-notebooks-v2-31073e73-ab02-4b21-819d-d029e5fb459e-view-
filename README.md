@@ -1,1 +1,1 @@
-# https-dataplatform.cloud.ibm.com-analytics-notebooks-v2-31073e73-ab02-4b21-819d-d029e5fb459e-view-
+# READING FILE WITH OPEN
